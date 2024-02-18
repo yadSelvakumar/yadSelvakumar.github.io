@@ -141,8 +141,10 @@ social:
 highlight_name: true
 ---
 
-I am currently a 5th year PhD candidate in the NYU Department of Economics. I will be on the academic job market in 2024-25.
-My research interests include macroeconomics, time-series econometrics and finance.
+I am currently a 5th year PhD candidate in the NYU Department of Economics. My research interests include macroeconomics, time-series econometrics and finance. 
+
+I will be on the academic job market in 2024-25.
+
 
 {style="text-align: justify;"}
 

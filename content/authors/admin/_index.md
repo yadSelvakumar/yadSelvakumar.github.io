@@ -92,15 +92,40 @@ skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: '/#contact'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/YadSelvakumar
+#     label: Follow me on Twitter
+#     display:
+#       header: true
+#   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#     icon_pack: fas
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/
+#   # Link to a PDF of your resume/CV.
+#   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+#   # and uncomment the lines below.
+#   - icon: cv
+#     icon_pack: ai
+#     link: uploads/resume.pdf
+
+
+
 social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:y4d.s@nyu.edu'
   - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/YadSelvakumar
-  display:
-    header: true
+    icon_pack: fab
+    link: https://twitter.com/YadSelvakumar
+    display:
+      header: true
 
 # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
@@ -120,3 +145,4 @@ I am currently a 5th year PhD candidate in the NYU Department of Economics. I wi
 My research interests include macroeconomics, time-series econometrics and finance.
 
 {style="text-align: justify;"}
+

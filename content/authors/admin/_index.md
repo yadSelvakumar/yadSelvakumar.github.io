@@ -95,12 +95,15 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:y4d.s@nyu.edu'
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/YadSelvakumar
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

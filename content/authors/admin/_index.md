@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yatheesan J. Selvakumar
+title: Yatheesan Selvakumar
 
 # Name pronunciation (optional)
-name_pronunciation: Yad Selvakumar
+# name_pronunciation: Yad Selvakumar
 
 # Full name (for SEO)
 first_name: Yatheesan

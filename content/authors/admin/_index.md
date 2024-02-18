@@ -25,7 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, time-series econometrics and finance
+bio: My research interests include macroeconomics, monetary economics and time-series econometrics
 
 # Interests to show in About widget
 # interests:
@@ -96,12 +96,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:y4d.s@nyu.edu'
-    display:
-      header: true
     - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YadSelvakumar
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    display:
+      header: true
+
+# - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # Link to a PDF of your resume/CV.

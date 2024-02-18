@@ -17,7 +17,7 @@ last_name: Selvakumar
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -122,5 +122,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a 5th year PhD candidate in the NYU Department of Economics. I will be on the academic job market in 2024-25.
+My research interests include macroeconomics, time-series econometrics and finance.
+
 {style="text-align: justify;"}

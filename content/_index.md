@@ -131,7 +131,7 @@ sections:
     id: posts
     content:
       title: Working papers
-      subtitle: ''
+      subtitle: 'Dynamic Mode Decomposition'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5

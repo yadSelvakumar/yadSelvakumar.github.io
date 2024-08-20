@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Estimating heterogeneous agent models with Micro Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: Job Market Paper
+publication: 
+publication_short: 
 
 abstract: Abstract goes here
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Summary goes here
 
 tags: []
 

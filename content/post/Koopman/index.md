@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Linearizing stochastic systems with the Koopman Operator
 date: 2019-07-12
 math: true
 image:

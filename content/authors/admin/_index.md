@@ -22,7 +22,7 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: New York University
-    url: https://www.stanford.edu/
+    url: https://as.nyu.edu/departments/econ.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, monetary economics and time-series econometrics

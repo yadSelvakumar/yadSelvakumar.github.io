@@ -135,7 +135,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Yad_Selvakumar_Academic_CV_2024.pdf
+    link: static/uploads/Yad_Selvakumar_Academic_CV_2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

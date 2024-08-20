@@ -6,7 +6,7 @@ title: Yatheesan Selvakumar
 # name_pronunciation: Yad Selvakumar
 
 # Full name (for SEO)
-first_name: Yatheesan
+first_name: Yatheesan Jonathan
 last_name: Selvakumar
 
 # Status emoji

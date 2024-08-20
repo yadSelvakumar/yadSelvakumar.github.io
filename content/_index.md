@@ -127,7 +127,7 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-    - block: collection
+  - block: collection
     id: featured
     content:
       title: Job Market Paper

@@ -149,7 +149,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - working_paper
         author: ""
         category: ""
         tag: ""
@@ -176,7 +176,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - work_in_progress
         author: ""
         category: ""
         tag: ""

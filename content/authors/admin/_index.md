@@ -25,7 +25,7 @@ organizations:
     url: https://as.nyu.edu/departments/econ.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, time-series econometrics and finance
+bio: My research interests include macroeconomics, econometrics and finance
 
 # Interests to show in About widget
 # interests:
@@ -135,7 +135,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/id_photo.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -1,37 +1,43 @@
----
 title: Linearizing stochastic systems with the Koopman Operator
-date: 2019-07-12
-math: true
+
+# Summary for listings and search engines
+summary: Sufficient conditions on state-space matrices A, C, G, R allow inferring them from a reduced-rank first-order vector autoregression (VAR) that can be computed with a Dy- namic Mode Decomposition (DMD), thereby connecting DMD modes to hidden Markov states in the state-space system. When these sufficient conditions hold, our technique provides a fast way to infer parameters of the linear state space system. An application infers two macroeconomic aggregate factors from dynamics of CEX cross sections.
+# Link this post with a project
+
+#projects: []
+
+# Date published
+date: '2024-10-02T00:00:00Z'
+
+# Date updated
+lastmod: '2020-12-13T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  preview_only: false
+
+authors:
+  - admin
+
+tags:
+  - Academic
+  - 开源
+
+categories:
+  - Demo
+  - 教程
 ---
 
-Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
-
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
-
-## Examples
-
-### Code
-
-Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the `syntax_highlighter` option in your `config/_default/params.yaml` file.
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
 
 ### Mindmaps
 

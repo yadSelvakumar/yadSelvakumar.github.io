@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: 
 
-abstract:
+abstract: We give sufficient conditions
 
 # Summary. An optional shortened abstract.
 summary: Summary goes here

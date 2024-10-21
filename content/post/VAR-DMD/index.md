@@ -3,13 +3,13 @@ title: Dynamic Mode Decompositions and Vector Autoregressions
 subtitle: w/ Professor Thomas J. Sargent
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+summary: Sufficient conditions on state-space matrices A, C, G, R allow inferring them from a reduced-rank first-order vector autoregression (VAR) that can be computed with a Dy- namic Mode Decomposition (DMD), thereby connecting DMD modes to hidden Markov states in the state-space system. When these sufficient conditions hold, our technique provides a fast way to infer parameters of the linear state space system. An application infers two macroeconomic aggregate factors from dynamics of CEX cross sections.
 # Link this post with a project
-projects: []
+
+#projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2024-10-02T00:00:00Z'
 
 # Date updated
 lastmod: '2020-12-13T00:00:00Z'

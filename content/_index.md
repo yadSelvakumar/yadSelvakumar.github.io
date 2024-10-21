@@ -141,7 +141,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Working papers
+      title: Other Working papers
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)

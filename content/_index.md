@@ -133,13 +133,13 @@ sections:
       title: Job Market Paper
       filters:
         folders:
-          - publication
+          - jmp
         featured_only: true
     design:
       columns: '2'
       view: card
   - block: collection
-    id: posts
+    id: working_paper
     content:
       title: Other Working papers
       subtitle: ''
@@ -166,7 +166,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: posts
+    id: work_in_progress
     content:
       title: Work in progress
       subtitle: ''

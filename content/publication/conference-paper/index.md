@@ -28,8 +28,7 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: 
 
-abstract: We give sufficient conditions under which dynamic equilibrium models with
-heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. 
+abstract: We give sufficient conditions under which dynamic equilibrium models with heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. 
 
 # Summary. An optional shortened abstract.
 summary: Summary goes here

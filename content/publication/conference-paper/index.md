@@ -28,7 +28,8 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: 
 
-abstract: Abstract goes here
+abstract: We give sufficient conditions under which dynamic equilibrium models with
+heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. We exploit this result to develop an econometric framework that enables the rapid estimation of a rich class of models with evolutions of both macro and large cross-section data. In monte-carlo simulations, we show that our method using the entire cross-section delivers precision up to an order of magnitude larger than the conventional approaches. We apply our method to estimate a medium-scale HANK model with heterogeneous exposures to aggregate fluctuations. Our estimates imply that poorer households are more sensitive to aggregate fluctuations on average, but the converse is true conditional on a monetary policy shock. Through the lens of the model, we estimate that heterogeneous earnings exposures amplify the consumption response to monetary policy shocks by 40\% and the output response by 20\%.
 
 # Summary. An optional shortened abstract.
 summary: Summary goes here
@@ -43,14 +44,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_pdf: 'content/publication/conference-paper/conference-paper.pdf'
+#url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

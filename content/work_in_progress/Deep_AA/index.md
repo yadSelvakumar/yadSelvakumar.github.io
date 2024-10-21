@@ -3,7 +3,7 @@ title: Deep Asset Allocation
 subtitle: w/ Professor J. Rubio-Ramirez
 
 # Summary for listings and search engines
-summary: We solve a portfolio allocation problem
+#summary: We solve a portfolio allocation problem
 # Link this post with a project
 
 #projects: []

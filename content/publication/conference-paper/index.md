@@ -22,11 +22,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+#publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+#publication: 
+#publication_short: 
 
 abstract: We give sufficient conditions under which dynamic equilibrium models with heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. We exploit this result to develop an econometric framework that enables the rapid estimation of a rich class of models with evolutions of both macro and large cross-section data. In monte-carlo simulations, we show that our method using the entire cross-section delivers precision up to an order of magnitude larger than the conventional approaches. We apply our method to estimate a medium-scale HANK model with heterogeneous exposures to aggregate fluctuations. Our estimates imply that poorer households are more sensitive to aggregate fluctuations on average, but the converse is true conditional on a monetary policy shock. Through the lens of the model, we estimate that heterogeneous earnings exposures amplify the consumption response to monetary policy shocks by 40\% and the output response by 20\%.
 
@@ -44,13 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,15 +64,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}

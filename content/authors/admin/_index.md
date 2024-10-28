@@ -25,7 +25,7 @@ organizations:
     url: https://as.nyu.edu/departments/econ.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, econometrics and finance
+#bio: My research interests include macroeconomics, econometrics and finance
 
 # Interests to show in About widget
 # interests:

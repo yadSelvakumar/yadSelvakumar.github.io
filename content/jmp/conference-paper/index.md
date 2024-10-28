@@ -28,10 +28,10 @@ publishDate: '2024-10-21T00:00:00Z'
 #publication: 
 #publication_short: 
 
-abstract: We give sufficient conditions under which dynamic equilibrium models with heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. We exploit this result to develop an econometric framework that enables the rapid estimation of a rich class of models with evolutions of both macro and large cross-section data. In monte-carlo simulations, we show that our method using the entire cross-section delivers precision up to an order of magnitude larger than the conventional approaches. We apply our method to estimate a medium-scale HANK model with heterogeneous exposures to aggregate fluctuations. Our estimates imply that poorer households are more sensitive to aggregate fluctuations on average, but the converse is true conditional on a monetary policy shock. Through the lens of the model, we estimate that heterogeneous earnings exposures amplify the consumption response to monetary policy shocks by 40\% and the output response by 20\%.
+# abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: Summary goes here
+summary: We give sufficient conditions under which dynamic equilibrium models with heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. We exploit this result to develop an econometric framework that enables the rapid estimation of a rich class of models with evolutions of both macro and large cross-section data. In monte-carlo simulations, we show that our method using the entire cross-section delivers precision up to an order of magnitude larger than the conventional approaches. We apply our method to estimate a medium-scale HANK model with heterogeneous exposures to aggregate fluctuations. Our estimates imply that poorer households are more sensitive to aggregate fluctuations on average, but the converse is true conditional on a monetary policy shock. Through the lens of the model, we estimate that heterogeneous earnings exposures amplify the consumption response to monetary policy shocks by 40\% and the output response by 20\%.
 
 tags: []
 

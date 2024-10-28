@@ -13,11 +13,11 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-10-21T00:00:00Z'
-doi: ''
+#date: '2024-10-21T00:00:00Z'
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-21T00:00:00Z'
+#publishDate: '2024-10-21T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publishDate: '2024-10-21T00:00:00Z'
 #publication: 
 #publication_short: 
 
-# abstract: 
+abstract:  We give sufficient conditions under which dynamic equilibrium models with heterogeneous-agents can be represented by a first-order reduced-rank vector autoregression. We exploit this result to develop an econometric framework that enables the rapid estimation of a rich class of models with evolutions of both macro and micro data. In monte-carlo simulations, we show that our method including the micro-data delivers precision up to an order of magnitude larger than the conventional approaches. We apply our method to estimate a medium-scale HANK model with household-level heterogeneous exposures to aggregate fluctuations. Our estimates imply that poorer households are more sensitive to changes in aggregate income on average, and that this sensitivity is heightened conditional on a monetary policy shock. Through the lens of the model, our method estimates that heterogeneous earnings exposures amplify the consumption response to monetary policy shocks by 40\%, substantially larger than those implied by traditional estimation methods.
 
 # Summary. An optional shortened abstract.
 # summary:

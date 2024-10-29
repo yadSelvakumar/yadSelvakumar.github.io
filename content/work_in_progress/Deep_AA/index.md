@@ -1,6 +1,6 @@
 ---
 title: Deep Asset Allocation
-subtitle: w/ Professor J. Rubio-Ramirez
+# subtitle: w/ Professor J. Rubio-Ramirez
 
 # Summary for listings and search engines
 #summary: We solve a portfolio allocation problem
@@ -12,7 +12,7 @@ subtitle: w/ Professor J. Rubio-Ramirez
 date: '2024-10-02T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+#lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -29,8 +29,8 @@ featured: false
 #  preview_only: false
 
 authors:
-  - admin
   - Juan Rubio-Ramirez
+  - admin  
 
 tags:
 #  - Academic

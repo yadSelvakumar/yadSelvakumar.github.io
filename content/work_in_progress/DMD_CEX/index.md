@@ -11,7 +11,7 @@ title: Dynamic Mode Decomposition of a CEX cross-section
 date: '2024-10-02T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+#lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

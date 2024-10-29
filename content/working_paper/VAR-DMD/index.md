@@ -8,7 +8,7 @@ summary: Sufficient conditions on   state-space  matrices A, C, G, R  allow  inf
 #projects: []
 
 # Date published
-date: '2024-10-02T00:00:00Z'
+date: '2024-10-28T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'

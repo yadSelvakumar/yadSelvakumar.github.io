@@ -40,8 +40,6 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: PDF
-  url: koopman_linearization_draft.pdf
 
 url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

@@ -78,7 +78,7 @@ education:
 
 
 
-#social:
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:y4d.s@nyu.edu'

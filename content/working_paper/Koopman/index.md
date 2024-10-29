@@ -21,7 +21,7 @@ featured: false
 
 links:
 - name: PDF
-  url: VAR_DMD.pdf
+  url: koopman_linearization_draft.pdf
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

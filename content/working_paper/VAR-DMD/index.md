@@ -31,6 +31,6 @@ authors:
   - Thomas J. Sargent
   - admin
 
-pdf: 'static/uploads/VAR_DMD.pdf'
+pdf: 'uploads/VAR_DMD.pdf'
 
 ---

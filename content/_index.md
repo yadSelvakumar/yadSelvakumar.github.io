@@ -139,7 +139,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: working_paper
+    id: posts
     content:
       title: Other Working papers
       subtitle: ''
@@ -166,7 +166,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: work_in_progress
+    id: posts
     content:
       title: Work in progress
       subtitle: ''

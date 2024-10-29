@@ -6,8 +6,8 @@ title: Yatheesan J. Selvakumar
 # name_pronunciation: Yad Selvakumar
 
 # Full name (for SEO)
-first_name: Yatheesan Jonathan
-last_name: Selvakumar
+#first_name: Yatheesan Jonathan
+#last_name: Selvakumar
 
 # Status emoji
 # status:
@@ -17,12 +17,12 @@ last_name: Selvakumar
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+#role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: New York University
-    url: https://as.nyu.edu/departments/econ.html
+#organizations:
+#  - name: New York University
+#    url: https://as.nyu.edu/departments/econ.html
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include macroeconomics, econometrics and finance
@@ -78,13 +78,13 @@ education:
 
 
 
-social:
+#social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:y4d.s@nyu.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/YadSelvakumar
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/YadSelvakumar
     display:
       header: true
 
@@ -102,12 +102,15 @@ social:
 highlight_name: true
 ---
 
+**Yatheesan J. Selvakumar**
+
 I am a 6th year PhD candidate in the NYU Department of Economics. 
 
 My research interests include macroeconomics, econometrics and finance. 
 
 I will be on the academic job market in 2024-25.
 
+Contact me via 
 
 {style="text-align: justify;"}
 

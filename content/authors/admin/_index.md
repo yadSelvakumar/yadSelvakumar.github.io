@@ -112,6 +112,7 @@ I will be on the academic job market in 2024-25.
 
 Find my CV [here](uploads/CV_YJSelvakumar_website.pdf)
 
+Contact me via \href{mailto:y4d.s@nyu.edu}{y4d.s@nyu.edu}
 
 {style="text-align: justify;"}
 

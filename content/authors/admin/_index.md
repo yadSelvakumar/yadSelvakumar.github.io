@@ -110,7 +110,8 @@ My research interests include macroeconomics, econometrics and finance.
 
 I will be on the academic job market in 2024-25.
 
-Contact me via 
+Find my CV [here]({{< ref "static/uploads/CV_YJSelvakumar_website.pdf" >}} "here")
 
+<!-- Contact me via [email]({{< ref "static/uploads/CV_YJSelvakumar_website.pdf" >}} "here") -->
 {style="text-align: justify;"}
 

@@ -17,16 +17,16 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
+    org_name: 'New York University'
+    description: 'PhD Candidate at NYU'
+    twitter: 'YadSelvakumar'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'googlefe90780ff99aaad6.html'
     baidu: ''
 
 # Site header

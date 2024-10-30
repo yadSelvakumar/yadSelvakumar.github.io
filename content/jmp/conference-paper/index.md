@@ -6,7 +6,7 @@ title: 'Estimating heterogeneous agent models with Micro Data'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Man Chon Iao
-  - **Yatheesan J. Selvakumar**
+  - Yatheesan J. Selvakumar
 
 # Author notes (optional)
 author_notes:

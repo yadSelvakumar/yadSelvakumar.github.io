@@ -34,20 +34,20 @@ superuser: true
 #   - Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD Economics
-      institution: New York University
-      year: 2025 (expected)
-    - course: Grad Dip. Mathematics
-      institution: King's College London
-      year: 2019
-    - course: MSc Economics
-      institution: London School of Economics
-      year: 2016
-    - course: BSc Economics
-      institution: University College London
-      year: 2012
+# education:
+#   courses:
+#     - course: PhD Economics
+#       institution: New York University
+#       year: 2025 (expected)
+#     - course: Grad Dip. Mathematics
+#       institution: King's College London
+#       year: 2019
+#     - course: MSc Economics
+#       institution: London School of Economics
+#       year: 2016
+#     - course: BSc Economics
+#       institution: University College London
+#       year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

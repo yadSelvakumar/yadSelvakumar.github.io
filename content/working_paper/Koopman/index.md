@@ -32,6 +32,6 @@ image:
   preview_only: false
 
 authors:
-  - admin
+  - Yatheesan J. Selvakumar
 
 ---

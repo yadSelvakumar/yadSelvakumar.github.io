@@ -30,7 +30,7 @@ featured: false
 
 authors:
   - Juan Rubio-Ramirez
-  - admin  
+  - Yatheesan J. Selvakumar 
 
 tags:
 #  - Academic

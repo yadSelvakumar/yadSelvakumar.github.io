@@ -32,7 +32,7 @@ image:
 
 authors:
   - Thomas J. Sargent
-  - admin
+  - Yatheesan J. Selvakumar
 
 
 

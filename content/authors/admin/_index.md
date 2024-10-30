@@ -112,6 +112,6 @@ I will be on the academic job market in 2024-25.
 
 Find my CV [here]({{< ref "static/uploads/CV_YJSelvakumar_website.pdf" >}} "here")
 
-<!-- Contact me via [email]({{< ref "static/uploads/CV_YJSelvakumar_website.pdf" >}} "here") -->
+
 {style="text-align: justify;"}
 

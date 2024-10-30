@@ -16,7 +16,7 @@ main:
   - name: Work in progress
     url: '#workinprogress'
     weight: 40
-  - name: Vitae
+  - name: Curriculum Vitae
     url: uploads/CV_YJSelvakumar_website.pdf
     weight: 50    
 

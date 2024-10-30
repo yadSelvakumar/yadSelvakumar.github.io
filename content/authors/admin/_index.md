@@ -1,13 +1,13 @@
 ---
 # Display name
-#title: Yatheesan J. Selvakumar
+title: Yatheesan J. Selvakumar
 
 # Name pronunciation (optional)
 # name_pronunciation: Yad Selvakumar
 
 # Full name (for SEO)
-#first_name: Yatheesan Jonathan
-#last_name: Selvakumar
+first_name: Yatheesan Jonathan
+last_name: Selvakumar
 
 # Status emoji
 # status:

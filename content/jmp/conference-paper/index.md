@@ -39,7 +39,8 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
+  -cite
 
 url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

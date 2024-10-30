@@ -5,8 +5,8 @@ title: 'Estimating heterogeneous agent models with Micro Data'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Man Chon Iao
+  - **Yatheesan J. Selvakumar**
 
 # Author notes (optional)
 author_notes:

@@ -28,9 +28,9 @@ featured: false
 #  preview_only: false
 
 authors:
-  - L. Gagliardone
-  - H. Han
-  - admin
+  - Luca Gagliardone
+  - Hyein Han
+  - Yatheesan J. Selvakumar
 
 #tags:
 #  - Academic

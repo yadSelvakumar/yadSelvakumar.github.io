@@ -29,7 +29,7 @@ featured: false
 
 authors:
   - Thomas J. Sargent
-  - admin
+  - Yatheesan J. Selvakumar
 
 #tags:
 #  - Academic

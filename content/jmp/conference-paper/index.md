@@ -1,5 +1,5 @@
 ---
-title: 'Estimating heterogeneous agent models with Micro Data'
+title: 'Estimating Heterogeneous Economies with Micro Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

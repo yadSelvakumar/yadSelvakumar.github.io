@@ -11,10 +11,10 @@ main:
     url: '#jmp'
     weight: 20
   - name: Other Working Papers
-    url: '#working_paper'
+    url: '#workingpapers'
     weight: 30
   - name: Work in progress
-    url: '#work_in_progress'
+    url: '#workinprogress'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.

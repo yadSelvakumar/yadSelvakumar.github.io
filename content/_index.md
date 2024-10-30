@@ -97,7 +97,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: featured
+    id: jmp
     content:
       title: Job Market Paper
       filters:
@@ -108,7 +108,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: posts
+    id: workingpapers
     content:
       title: Other Working papers
       subtitle: ''
@@ -135,7 +135,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: posts
+    id: workinprogress
     content:
       title: Work in progress
       subtitle: ''

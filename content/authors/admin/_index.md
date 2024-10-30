@@ -102,7 +102,7 @@ education:
 highlight_name: true
 ---
 
-**Yatheesan J. Selvakumar**
+### Yatheesan J. Selvakumar
 
 I am a 6th year PhD candidate in the NYU Department of Economics. 
 

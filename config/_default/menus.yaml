@@ -4,21 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
-  - name: Job Market Paper
-    url: '#jmp'
-    weight: 20
-  - name: Other Working Papers
-    url: '#workingpapers'
-    weight: 30
-  - name: Work in progress
-    url: '#workinprogress'
-    weight: 40
   - name: Curriculum Vitae
     url: uploads/CV_YJSelvakumar_website.pdf
-    weight: 50    
+    weight: 20    
+  - name: Job Market Paper
+    url: '#jmp'
+    weight: 30
+  - name: Other Working Papers
+    url: '#workingpapers'
+    weight: 40
+  - name: Work in progress
+    url: '#workinprogress'
+    weight: 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

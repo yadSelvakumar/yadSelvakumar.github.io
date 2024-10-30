@@ -31,7 +31,7 @@ marketing:
 
 # Site header
 
-header:
+header: 
   navbar:
     enable: true
     align: l

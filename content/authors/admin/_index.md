@@ -106,11 +106,19 @@ highlight_name: true
 
 I am a 6th year PhD candidate in the NYU Department of Economics. 
 
+
+
 My research interests include macroeconomics, econometrics and finance. 
+
+
 
 I will be on the academic job market in 2024-25.
 
+
+
 Find my CV [here](uploads/CV_YJSelvakumar_website.pdf)
+
+
 
 Contact me via [y4d.s@nyu.edu](mailto:y4d.s@nyu.edu)
 

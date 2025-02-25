@@ -1,5 +1,5 @@
 ---
-title: Dynamic Mode Decompositions and Vector Autoregressions (R\&R International Economic Review)
+title: Dynamic Mode Decompositions and Vector Autoregressions (R&ampR International Economic Review)
 
 # Summary for listings and search engines
 summary: Sufficient conditions on   state-space  matrices A, C, G, R  allow  inferring  them  from a reduced-rank first-order vector autoregression (VAR) that can be  computed with  a Dynamic Mode Decomposition (DMD), thereby connecting  DMD modes to  hidden Markov states in the state-space system.  When these sufficient conditions hold, our technique  provides a fast way to infer parameters of the linear state space system. An application infers two macroeconomic aggregate factors from dynamics of CEX cross sections.
